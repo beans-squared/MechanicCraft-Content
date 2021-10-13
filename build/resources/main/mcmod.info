@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mccontent",
+  "name": "MechanicCraft Content",
+  "description": "Content for MechanicCraft modpack.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["beansquared"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
