@@ -1,15 +1,16 @@
 [
 {
-  "modid": "modtut",
-  "name": "Mod Tutorials",
-  "description": "Mod Tutorials",
+  "modid": "mccontent",
+  "name": "MechanicCraft Content",
+  "description": "Content for MechanicCraft modpack.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["McJty"],
-  "credits": "McJty",
+  "authorList": ["beansquared"],
+  "credits": "",
   "logoFile": "",
-  "screenshots": []
+  "screenshots": [],
+  "dependencies": []
 }
 ]
